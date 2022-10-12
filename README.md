@@ -38,6 +38,7 @@
 
 ###
 
+<p align="left"> => npm install -D tailwindcss concurrently live-server</p>
 <p align="left"> => npm run watch</p>
 
 ###
