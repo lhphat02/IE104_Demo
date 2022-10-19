@@ -47,6 +47,6 @@
 
 ###
 
-<p align="left">Source : https://github.com/davidgrzyb<br>This repos is used for education purpose only.</p>
+<p align="left">Source : https://github.com/davidgrzyb<br>This repos is used for educational purpose only.</p>
 
 ###
